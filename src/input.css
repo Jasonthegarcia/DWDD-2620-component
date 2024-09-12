@@ -1,0 +1,11 @@
+button {
+    border-radius: 5rem;
+    color: white;
+    background-color: blue;
+    font-size: 30px;
+    border-color:blue;
+}
+button:hover {
+    color: gainsboro;
+    background-color: darkblue;
+}
